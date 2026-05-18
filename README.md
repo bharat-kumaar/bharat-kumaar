@@ -200,13 +200,11 @@ Tech Passion:
 </p>
 
 ---
-
-
-# 🌌 CYBERPUNK MATRIX EFFECT
+# 🌌 CYBER MATRIX
 
 <p align="center">
 
-<img width="1000" src="https://user-images.githubusercontent.com/74038190/212749695-3a9b0f5f-cf11-4d5f-b4d3-4f90f8a6df91.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2f8b4f45-7ad3-4c28-8f4c-8dcb65d2b3f8.gif">
 
 </p>
 
