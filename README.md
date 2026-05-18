@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bharat-kumaar/bharat-kumaar/main/banner.png" />
+
+</p>
+
 <h1 align="center">Hey 👋, I'm Bharat Kumar</h1>
 
 <h3 align="center">
