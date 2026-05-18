@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/bharat-kumaar/bharat-kumaar/main/banner.png"/>
+<img src="https://raw.githubusercontent.com/bharat-kumaar/bharat-kumaar/main/banner github.png"/>
 
 </p>
 
