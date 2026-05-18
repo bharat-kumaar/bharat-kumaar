@@ -201,15 +201,14 @@ Tech Passion:
 
 ---
 
-# 🌌 MATRIX RAIN EFFECT
+
+# 🌌 CYBERPUNK MATRIX EFFECT
 
 <p align="center">
 
-<img width="1000" src="https://media.giphy.com/media/3o7TKsQ8UQGfNHJ9hC/giphy.gif"/>
+<img width="1000" src="https://user-images.githubusercontent.com/74038190/212749695-3a9b0f5f-cf11-4d5f-b4d3-4f90f8a6df91.gif"/>
 
 </p>
-
----
 
 # 💻 LIVE CODING GIF
 
