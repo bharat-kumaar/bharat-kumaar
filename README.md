@@ -1,228 +1,299 @@
+<!-- ========================================= -->
+<!-- 🔥 ADVANCED FUTURISTIC GITHUB PROFILE -->
+<!-- ========================================= -->
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/bharat-kumaar/bharat-kumaar/main/banner.png" />
+<img src="https://raw.githubusercontent.com/bharat-kumaar/bharat-kumaar/main/banner.png"/>
 
 </p>
 
-<h1 align="center">Hey 👋, I'm Bharat Kumar</h1>
+<h1 align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer • AI Enthusiast • Tech Explorer
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=HEY+👋+I'M+BHARAT+KUMAR;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;TECH+EXPLORER;BUILDING+THE+FUTURE+WITH+CODE+🚀" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Stock+Market+Projects;Java+%7C+Python+%7C+JavaScript;Building+Futuristic+Web+Apps" />
-</p>
+</h1>
 
 ---
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=bharat-kumaar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/bharat-kumaar?style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/bharat-kumaar?style=for-the-badge&color=purple"/>
+
 </p>
 
 ---
 
-# 🌌 About Me
+# 🌌 CYBERPUNK DEVELOPER PROFILE
+
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBqYjM0dTR2NGF1c3Y2eWN0eHJzNWN2ZXByaTRjNGV4YXF1YWIxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
 ```yaml
 Name: Bharat Kumar
+
 Role: Full Stack Developer Intern
+
 Company: Padmas Technologies
-Focus: AI • Web Development • Automation
-Learning: Backend + System Design
-Location: India
+
+Focus:
+  - AI Development
+  - Web Applications
+  - Automation
+  - Stock Market Analytics
+
+Currently Learning:
+  - Backend Systems
+  - System Design
+  - MERN Stack
+  - AI Integrations
+
+Tech Passion:
+  - Futuristic UI
+  - Cyberpunk Design
+  - Interactive Dashboards
+  - Smart Automation
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,mysql,mongodb,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,java,mysql,mongodb,git,github,vscode,figma,docker" />
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 AI ASSISTANT AVATAR
+
+<p align="center">
+
+<img width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+
+</p>
+
+---
+
+# 🌐 3D CODING ROOM
+
+<p align="center">
+
+<img width="900" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
+
 <td width="50%">
 
-## 📈 Stock Market Predictor
+<h2>📈 Stock Market Predictor</h2>
 
-AI-powered stock prediction dashboard with:
-- Real-time market analytics
-- ML prediction models
-- Stylish animated UI
+✨ AI-powered stock prediction dashboard  
+✨ Real-time market analysis  
+✨ Machine learning integration  
+✨ Animated futuristic UI  
 
 </td>
 
 <td width="50%">
 
-## 🤖 AI Chatbot Assistant
+<h2>🤖 AI Chatbot Assistant</h2>
 
-Smart chatbot with:
-- NLP integration
-- Interactive frontend
-- Python backend
+✨ NLP based chatbot  
+✨ Interactive frontend  
+✨ Python backend integration  
+✨ Modern responsive design  
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-## 🎓 Smart Attendance System
+<h2>🎓 Smart Attendance System</h2>
 
-Java-based attendance system featuring:
-- GUI support
-- Student management
-- Attendance tracking
+✨ Java GUI application  
+✨ Student management system  
+✨ Attendance analytics  
+✨ Smart tracking system  
 
 </td>
 
 <td width="50%">
 
-## 🌐 Portfolio Website
+<h2>🌐 Portfolio Website</h2>
 
-Modern responsive portfolio with:
-- Animations
-- Dark neon UI
-- Interactive sections
+✨ Responsive UI  
+✨ Glassmorphism design  
+✨ Neon animations  
+✨ Cyberpunk effects  
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+# 🔥 GITHUB ANALYTICS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharat-kumaar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharat-kumaar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-kumaar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-kumaar&layout=compact&theme=tokyonight&hide_border=true&border_radius=25"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# ⚡ GITHUB STREAK
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-kumaar&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-kumaar&theme=tokyonight&hide_border=true&border_radius=25"/>
 
 </p>
 
 ---
 
-# 💻 Coding Activity Graph
+# 📊 CONTRIBUTION GRAPH
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-kumaar&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-kumaar&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/bharat-kumaar/bharat-kumaar/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/bharat-kumaar/bharat-kumaar/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bharat-kumaar&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=bharat-kumaar&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+# 🌌 MATRIX RAIN EFFECT
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/bharat_kumaar_?theme=dark&font=Poppins&ext=contest" />
+<img width="1000" src="https://media.giphy.com/media/3o7TKsQ8UQGfNHJ9hC/giphy.gif"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 💻 LIVE CODING GIF
+
+<p align="center">
+
+<img width="700" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+</p>
+
+---
+
+# 🧠 LEETCODE STATS
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/bharat_kumaar_?theme=dark&font=Baloo&ext=contest"/>
+
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
 <a href="https://github.com/bharat-kumaar">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bharat-kumaar/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:bharatkumar70233@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Fun Zone
+# ☕ CURRENTLY LEARNING
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker,typescript"/>
 
 </p>
 
 ---
 
-# 🎨 Random Dev Meme
+# 🎯 2026 GOALS
+
+✅ Become MERN Stack Expert  
+✅ Build AI SaaS Platform  
+✅ Master Backend Development  
+✅ Open Source Contributions  
+✅ Crack Top Tech Internship  
+✅ Build Advanced AI Projects  
+
+---
+
+# 🌟 RANDOM DEV QUOTE
 
 <p align="center">
 
-<img src="https://random-memer.herokuapp.com/" width="400px"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# ☕ Currently Learning
+# 🎨 GLASSMORPHISM SECTION
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker" />
+<img width="850" src="https://user-images.githubusercontent.com/74038190/212750642-79fba4d9-4e7f-4910-a5df-91bcb5cb7f5.gif"/>
 
 </p>
 
 ---
 
-# 🚀 Goals For 2026
+<h1 align="center">
 
-- ✅ Become MERN Stack Expert
-- ✅ Build AI SaaS Project
-- ✅ Master Backend Development
-- ✅ Open Source Contributions
-- ✅ Crack Top Tech Internship
+🔥 CODE • LEARN • BUILD • REPEAT 🚀
 
----
-
-<h2 align="center">
-
-🔥 BUILDING THE FUTURE WITH CODE 🚀
-
-</h2>
+</h1>
