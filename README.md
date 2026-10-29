@@ -46,6 +46,76 @@
   <img src="https://img.shields.io/badge/DSA-LEETCODE_ACTIVE-ffa116?style=flat-square&logo=leetcode&logoColor=black" alt="DSA" />
 </p>
 
+<!-- ======================================================== -->
+<!-- 🕹️ CYBER ARCADE 2077 // LIVE RETRO GAME LAUNCHER -->
+<!-- ======================================================== -->
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" style="background: rgba(10, 8, 22, 0.9); border: 2px solid #00f7ff; border-radius: 16px; padding: 1.5rem; box-shadow: 0 0 30px rgba(0, 247, 255, 0.35);">
+        <h2 style="color: #00f7ff; margin: 0 0 0.5rem 0; font-family: sans-serif;">
+          🎮 CYBER DEFENDER 2077 // PLAYABLE ARCADE
+        </h2>
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-bottom: 1rem;">
+          Visiting my profile? Take a breather and defend the quantum mainframe from descending bugs, memory leaks, and glitch daemons in 60 FPS retro glory!
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/ENGINE-60_FPS_CANVAS-00f7ff?style=flat-square&logo=html5&logoColor=black" alt="Canvas" />
+          <img src="https://img.shields.io/badge/AUDIO-8--BIT_SYNTHESIZER-ff007f?style=flat-square&logo=webassembly&logoColor=white" alt="WebAudio" />
+          <img src="https://img.shields.io/badge/DISPLAY-CRT_SCANLINES-7928ca?style=flat-square" alt="CRT" />
+          <img src="https://img.shields.io/badge/CONTROLS-KEYBOARD_%26_TOUCH-10b981?style=flat-square" alt="Controls" />
+        </p>
+        <p>
+          <a href="https://bharat-kumaar.github.io#arcade">
+            <img src="https://img.shields.io/badge/%F0%9F%9A%80_PLAY_NOW-LAUNCH_CYBER_DEFENDER_2077-00f7ff?style=for-the-badge&logo=gamepad&logoColor=black" alt="Play Game Now" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ======================================================== -->
+<!-- 🧩 INTERACTIVE GITHUB MINI-GAME // QUANTUM HACK CHALLENGE -->
+<!-- ======================================================== -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&repeat=true&width=550&height=35&lines=%F0%9F%94%93+INTERACTIVE+PROFILE+DECRYPTOR+GAME" alt="Decryptor Game" />
+</h3>
+
+<div align="center">
+  <p><em>A rogue glitch daemon has locked the quantum mainframe. Click a key below to attempt decryption:</em></p>
+</div>
+
+<details>
+<summary><b>🔹 KEY 0x1A: [01001000 - BRUTE_FORCE_CIPHER] (Click to Test)</b></summary>
+<br/>
+<p align="center">
+  ❌ <b>FIREWALL LOCKDOWN ENGAGED!</b> Security intrusion thwarted. <br/>
+  <em>Hint: The correct key relies on neural architecture &amp; AI intelligence!</em>
+</p>
+</details>
+
+<details>
+<summary><b>🔹 KEY 0x2B: [NEURAL_TENSOR_CORE_AI] (Click to Test)</b></summary>
+<br/>
+<p align="center">
+  🎉 <b>ACCESS GRANTED! QUANTUM CORE RESTORED!</b> 🏆<br/>
+  <b>Status:</b> <code>[CYBER_ARCHITECT_ROOT_UNLOCKED]</code><br/>
+  You have successfully decrypted the mainframe security clearance.<br/><br/>
+  <a href="https://bharat-kumaar.github.io#arcade">
+    <strong>▶ Click Here to Battle the Glitch Daemons in the Full Cyber Arcade! 🚀</strong>
+  </a>
+</p>
+</details>
+
+<details>
+<summary><b>🔹 KEY 0x3C: [STACK_OVERFLOW_POINTER_NULL] (Click to Test)</b></summary>
+<br/>
+<p align="center">
+  ⚠️ <b>KERNEL PANIC DETECTED!</b> Memory leakage cascading. Please try another security vector.
+</p>
+</details>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0:00f7ff,50:7928ca,100:ff007f&height=25&section=header" width="90%" alt="Divider" />
 </p>
@@ -54,7 +124,7 @@
 <!-- 💻 CYBERPUNK TERMINAL // TELEMETRY & ABOUT -->
 <!-- ======================================================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%9A%A1+CYBER+TERMINAL+%2F%2F+TELEMETRY" alt="Terminal Heading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%9A%A1+CYBER+TERMINAL+%2F%2F+TELEMETRY" alt="Terminal Heading" />
 </h2>
 
 <div align="center">
