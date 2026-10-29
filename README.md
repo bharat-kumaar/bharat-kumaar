@@ -37,11 +37,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GLOBAL_LEADERBOARD-ACTIVE_ONLINE_%F0%9F%9F%A2-00f7ff?style=flat-square&logo=googlecloud&logoColor=black" alt="Leaderboard" />
+  &nbsp;
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00f7ff?style=flat-square&logo=codeforces&logoColor=black" alt="Status" />
   &nbsp;
   <img src="https://img.shields.io/badge/CORE-FULL_STACK_%26_AI-ff007f?style=flat-square&logo=openai&logoColor=white" alt="Core" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SYSTEM-DISTRIBUTED_%26_REAL--TIME-7928ca?style=flat-square&logo=databricks&logoColor=white" alt="System" />
+  <img src="https://img.shields.io/badge/SYSTEM-REAL--TIME_60FPS-7928ca?style=flat-square&logo=databricks&logoColor=white" alt="System" />
   &nbsp;
   <img src="https://img.shields.io/badge/DSA-LEETCODE_ACTIVE-ffa116?style=flat-square&logo=leetcode&logoColor=black" alt="DSA" />
 </p>
@@ -52,27 +54,92 @@
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td align="center" style="background: rgba(10, 8, 22, 0.9); border: 2px solid #00f7ff; border-radius: 16px; padding: 1.5rem; box-shadow: 0 0 30px rgba(0, 247, 255, 0.35);">
+      <td align="center" style="background: rgba(10, 8, 22, 0.9); border: 2px solid #00f7ff; border-radius: 16px; padding: 1.5rem; box-shadow: 0 0 35px rgba(0, 247, 255, 0.4);">
         <h2 style="color: #00f7ff; margin: 0 0 0.5rem 0; font-family: sans-serif;">
-          🎮 CYBER DEFENDER 2077 // PLAYABLE ARCADE
+          🎮 CYBER DEFENDER 2077 // PLAYABLE ARCADE &amp; GLOBAL LEADERBOARD
         </h2>
-        <p style="color: #cbd5e1; font-size: 0.95rem; margin-bottom: 1rem;">
-          Visiting my profile? Take a breather and defend the quantum mainframe from descending bugs, memory leaks, and glitch daemons in 60 FPS retro glory!
+        <p style="color: #cbd5e1; font-size: 0.95rem; margin-bottom: 0.8rem;">
+          Visiting my profile? Play the 60 FPS retro arcade shooter, defeat glitch daemons, and <strong>submit your score to the live Global Hall of Fame</strong> to compete with other visitors!
         </p>
         <p>
-          <img src="https://img.shields.io/badge/ENGINE-60_FPS_CANVAS-00f7ff?style=flat-square&logo=html5&logoColor=black" alt="Canvas" />
+          <img src="https://img.shields.io/badge/ENGINE-60_FPS_WARP_CANVAS-00f7ff?style=flat-square&logo=html5&logoColor=black" alt="Canvas" />
           <img src="https://img.shields.io/badge/AUDIO-8--BIT_SYNTHESIZER-ff007f?style=flat-square&logo=webassembly&logoColor=white" alt="WebAudio" />
+          <img src="https://img.shields.io/badge/LEADERBOARD-LIVE_CLOUD_SYNC-10b981?style=flat-square&logo=fastapi&logoColor=white" alt="Leaderboard" />
           <img src="https://img.shields.io/badge/DISPLAY-CRT_SCANLINES-7928ca?style=flat-square" alt="CRT" />
-          <img src="https://img.shields.io/badge/CONTROLS-KEYBOARD_%26_TOUCH-10b981?style=flat-square" alt="Controls" />
         </p>
         <p>
           <a href="https://bharat-kumaar.github.io#arcade">
             <img src="https://img.shields.io/badge/%F0%9F%9A%80_PLAY_NOW-LAUNCH_CYBER_DEFENDER_2077-00f7ff?style=for-the-badge&logo=gamepad&logoColor=black" alt="Play Game Now" />
           </a>
+          &nbsp;&nbsp;
+          <a href="https://bharat-kumaar.github.io#arcade">
+            <img src="https://img.shields.io/badge/%F0%9F%8F%86_HALL_OF_FAME-VIEW_GLOBAL_SCORES-f59e0b?style=for-the-badge&logo=trophy&logoColor=black" alt="Leaderboard Link" />
+          </a>
         </p>
       </td>
     </tr>
   </table>
+</div>
+
+<!-- ======================================================== -->
+<!-- 🏆 LIVE GLOBAL LEADERBOARD PREVIEW -->
+<!-- ======================================================== -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&repeat=true&width=550&height=35&lines=%F0%9F%8F%86+CYBER+DEFENDER+HALL+OF+FAME" alt="Hall of Fame Heading" />
+</h3>
+
+<div align="center">
+  <table width="90%" border="0">
+    <thead>
+      <tr style="border-bottom: 2px solid #00f7ff;">
+        <th align="center">Rank</th>
+        <th align="left">Callsign</th>
+        <th align="center">High Score</th>
+        <th align="center">Wave Reached</th>
+        <th align="center">Badge</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">🥇 <b>#1</b></td>
+        <td align="left"><b>BHARAT_KUMAR</b></td>
+        <td align="center"><code style="color:#00f7ff;">2,850</code></td>
+        <td align="center">Wave 6</td>
+        <td align="center"><code>DEV 👑</code></td>
+      </tr>
+      <tr>
+        <td align="center">🥈 <b>#2</b></td>
+        <td align="left"><b>CYBER_VIPER</b></td>
+        <td align="center"><code style="color:#00f7ff;">2,420</code></td>
+        <td align="center">Wave 5</td>
+        <td align="center"><code>PRO 🔥</code></td>
+      </tr>
+      <tr>
+        <td align="center">🥉 <b>#3</b></td>
+        <td align="left"><b>NEO_MATRIX</b></td>
+        <td align="center"><code style="color:#00f7ff;">1,980</code></td>
+        <td align="center">Wave 4</td>
+        <td align="center"><code>ELITE ⚡</code></td>
+      </tr>
+      <tr>
+        <td align="center">🎖️ <b>#4</b></td>
+        <td align="left"><b>SHADOW_SYS</b></td>
+        <td align="center"><code style="color:#00f7ff;">1,650</code></td>
+        <td align="center">Wave 4</td>
+        <td align="center"><code>ACE 🎯</code></td>
+      </tr>
+      <tr>
+        <td align="center">🎖️ <b>#5</b></td>
+        <td align="left"><b>GLITCH_HUNTER</b></td>
+        <td align="center"><code style="color:#00f7ff;">1,410</code></td>
+        <td align="center">Wave 3</td>
+        <td align="center"><code>RUNNER 🚀</code></td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    <em>Can you beat the developer's high score of <strong>2,850</strong>? <a href="https://bharat-kumaar.github.io#arcade"><strong>Play and enter your callsign to challenge the leaderboard »</strong></a></em>
+  </p>
 </div>
 
 <!-- ======================================================== -->
